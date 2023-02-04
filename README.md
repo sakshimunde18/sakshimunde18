@@ -12,3 +12,9 @@
           </td>
         </tr>
       </table>
+      <h3 align="center">A passionate developer from India</h3>
+      <p align='center'>
+      - 🌱 I’m currently learning <strong>everything!         </strong><br />
+      - 🏫 Learning in Marathwada Institute Of Technology, Aurangabad<br>
+      - 🏫 Learning in Marathwada Institute Of Technology, Aurangabad<br>
+      
