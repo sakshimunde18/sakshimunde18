@@ -17,4 +17,9 @@
       - 🌱 I’m currently learning <strong>everything!         </strong><br />
       - 🏫 Learning in Marathwada Institute Of Technology, Aurangabad<br>
       - 🏫 Learning in Marathwada Institute Of Technology, Aurangabad<br>
+       - 📫 Wanna reach me..
+      <strong><a href="mailto:sakshimunde18@gmail.com">email me</a></strong>
+      <br />
+      </p>
+      <br />
       
