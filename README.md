@@ -32,4 +32,11 @@
             height="30"
             width="40"
         /></a>
+         <a href="https://t.telegram.ind.in/Sakshimunde18" target="blank"
+          ><img
+            align="center"
+            src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png"
+            height="30"
+            width="30"
+        /></a>
       
