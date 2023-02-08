@@ -22,21 +22,3 @@
       <br />
       </p>
       <br />
-      <h2 align="center">My Social Connections:</h2>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/sakshi-munde-23916522a/" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="sakshimunde"
-            height="30"
-            width="40"
-        /></a>
-         <a href="https://t.telegram.ind.in/Sakshimunde18" target="blank"
-          ><img
-            align="center"
-            src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png"
-            height="30"
-            width="30"
-        /></a>
-      
