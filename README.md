@@ -15,7 +15,7 @@
       <h3 align="center">A Passionate Developer from India</h3>
       <p align='center'>
        💫 About Me:<br>
-      - 🌱 I’m currently learning <strong>:-Flutte!         </strong><br />
+      - 🌱 I’m currently learning <strong>:-Flutter!         </strong><br />
       - 🏫 Learning in:- Marathwada Institute Of Technology, Aurangabad<br>
       -🔭 I’m currently working on:- Birthday-Book-App<br>
       -👯 I’m looking to collaborate on :-GFG Hackthon<br>
