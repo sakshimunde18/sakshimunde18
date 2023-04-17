@@ -20,7 +20,7 @@
       -🔭 I’m currently working on:-App Development<br>
       -👯 I’m looking to collaborate on :-GFG Hackthon<br>
       -💬 Ask me about :-Web-Development<br>
-      - ⚡ Fun fact :- I'm Talkative<br>
+<!--       - ⚡ Fun fact :- I'm Talkative<br> -->
       - 📫 Wanna reach me..
       <strong><a href="mailto:sakshimunde18@gmail.com">email me</a></strong>
       <br />
