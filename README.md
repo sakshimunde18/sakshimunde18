@@ -18,7 +18,7 @@
       - 🌱 I’m currently learning <strong>:- Flutter App Development !         </strong><br />
       - 🏫 Learning in:- Marathwada Institute Of Technology, Aurangabad<br>
       -🔭 I’m currently working on:- Flutter App Development<br>
-      //-👯 I’m looking to collaborate on :-GFG Hackthon<br>
+       <!---👯 I’m looking to collaborate on :-GFG Hackthon<br> -->
       -💬 Ask me about :-Web-Development<br>
 <!--       - ⚡ Fun fact :- I'm Talkative<br> -->
       - 📫 Wanna reach me..
