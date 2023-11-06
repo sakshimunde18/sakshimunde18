@@ -44,9 +44,6 @@
 ---
 
 
- [![An image of @sakshimunde18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshimunde18)](https://holopin.io/@sakshimunde18)
-
-
 [![](https://visitcount.itsvg.in/api?id=sakshimunde18&icon=9&color=11)](https://visitcount.itsvg.in)
 
 
